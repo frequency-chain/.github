@@ -1,2 +1,3 @@
 # .github
-Github defaults for Frequency Repositories
+
+Organization wide `.github` and defaults for repositories.

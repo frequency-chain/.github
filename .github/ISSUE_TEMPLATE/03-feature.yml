@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms.json
+name: New Feature Idea/Request
+description: New feature, page, etc...
+title: "[Feature]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Details
+
+        ## Possible Related Issues
+        -
+  - type: checkboxes
+    id: searched
+    attributes:
+      label: Searched for Related Issues
+      options:
+        - label: I have done a search for related issues and either found none, or noted them
+          required: true
