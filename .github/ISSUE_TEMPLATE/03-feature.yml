@@ -3,7 +3,7 @@ name: New Feature Idea/Request
 description: New feature, page, etc...
 title: "[Feature]: "
 body:
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         ## Details
